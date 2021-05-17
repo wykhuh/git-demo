@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 a
 AA
 aaa
 aaaa
 aaaaa
+=======
+cc
+ccc
+cccc
+>>>>>>> 4fad099... add more text
