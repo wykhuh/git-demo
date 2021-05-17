@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 a
 AA
 aaa
@@ -9,3 +10,10 @@ cc
 ccc
 cccc
 >>>>>>> 4fad099... add more text
+=======
+c
+cc
+ccc
+cccc
+ccccc
+>>>>>>> f38f248... add even more text
